@@ -1,0 +1,11 @@
+# NAME: warframe
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/Blxy259911/-/blob/main/README.md#-
+# UPDATED: 2025-09-04 02:30:01
+# DOMAIN-SUFFIX: 4
+# IP-CIDR: 0
+# TOTAL: 4
+DOMAIN-SUFFIX,origin-mob.warframe.com,DIRECT
+DOMAIN-SUFFIX,content-mob.warframe.com,DIRECT
+DOMAIN-SUFFIX,api-mob.warframe.com,DIRECT
+DOMAIN-SUFFIX,warframe.com,DIRECT
